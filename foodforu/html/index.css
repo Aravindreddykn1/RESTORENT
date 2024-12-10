@@ -1,0 +1,63 @@
+
+*{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+#header{
+    display: flex;
+    background-color:greenyellow;
+    opacity: 0.7;
+    
+    
+}
+#logo{
+    background-image: url(../images/logo.png);
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+    margin-left: 40px;
+
+       
+}
+#logoname{
+    height: 20px;
+    color: green;
+    margin-top: 40px;
+    margin-left: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#bar{
+    display: flex;
+    margin-left: 400px;
+    
+    
+}
+#bar li{
+    margin:40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: green;
+    font-weight: 900;
+   
+}
+#main{
+    background-image: url(../images/main1.jpg);
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:rosybrown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+#footer{
+    height: 50px;
+    width: 100%;
+    background-color:black;
+    
+   
+    
+
+}

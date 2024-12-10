@@ -1,0 +1,46 @@
+#main2{
+    background-image: url(../images/menu.avif);
+    height: 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#burger{
+    margin-left: 400px;
+}
+#sliders{
+    background-image: url(../images/sliders.jpg);
+    height: 400px;
+}
+#sliders1{
+    margin-left: 400px;
+
+}
+#sides{
+    background-image: url(../images/sides.jpg);
+    height: 400px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+
+   
+
+}
+#sides1{
+    margin-left: 400px;
+
+
+}
+#sm{
+    background-image: url(../images/bev1.jpg);
+    height: 400px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#sm1
+{
+    margin-left: 400px;
+
+}
